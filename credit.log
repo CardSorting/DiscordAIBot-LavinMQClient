@@ -1,0 +1,13 @@
+{"level":30,"time":1702351279290,"pid":7763,"hostname":"d4662906627d","msg":"Initializing SQLite database at /home/runner/HanaBot-Front/sqlite/credits.db"}
+{"level":30,"time":1702351279294,"pid":7763,"hostname":"d4662906627d","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1702351279294,"pid":7763,"hostname":"d4662906627d","msg":"CreditManager instance created."}
+{"level":30,"time":1702351279296,"pid":7763,"hostname":"d4662906627d","msg":"CreditHandler initialized"}
+{"level":30,"time":1702351288046,"pid":7763,"hostname":"d4662906627d","msg":"Initializing SQLite database at /home/runner/HanaBot-Front/sqlite/credits.db"}
+{"level":30,"time":1702351288046,"pid":7763,"hostname":"d4662906627d","msg":"Ensuring UserCredits table exists"}
+{"level":30,"time":1702351288046,"pid":7763,"hostname":"d4662906627d","msg":"CreditManager instance created."}
+{"level":30,"time":1702351288047,"pid":7763,"hostname":"d4662906627d","msg":"Fetching credits for user: 530285329047879681"}
+{"level":30,"time":1702351288047,"pid":7763,"hostname":"d4662906627d","msg":"Fetching credits for user 530285329047879681"}
+{"level":30,"time":1702351288047,"pid":7763,"hostname":"d4662906627d","msg":"Retrieved credits for user 530285329047879681:"}
+{"level":30,"time":1702351288047,"pid":7763,"hostname":"d4662906627d","msg":"Updating credits for user 530285329047879681 with data:"}
+{"level":30,"time":1702351288215,"pid":7763,"hostname":"d4662906627d","msg":"Credits updated for user 530285329047879681:"}
+{"level":30,"time":1702351288215,"pid":7763,"hostname":"d4662906627d","msg":"Updated user 530285329047879681 credits to 355"}

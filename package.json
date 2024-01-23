@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@pinecone-database/pinecone": "^1.1.2",
+    "@types/node": "^18.0.6",
+    "amqplib": "^0.10.3",
+    "api": "^6.1.1",
+    "axios": "^1.6.2",
+    "backblaze-b2": "^1.7.0",
+    "better-sqlite3": "^9.2.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "fastq": "^1.15.0",
+    "node-fetch": "^3.2.6",
+    "openai": "^4.20.1",
+    "pino": "^8.16.2",
+    "replicate": "^0.23.0",
+    "request": "^2.88.2"
+  }
+}
